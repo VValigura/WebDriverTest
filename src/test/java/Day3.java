@@ -20,7 +20,6 @@ import static org.junit.Assert.assertTrue;
 
 public class Day3 {
     private WebDriver driver;
-    private WebDriverWait wait;
 
     @Before
     public void start(){
